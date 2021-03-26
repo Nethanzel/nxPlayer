@@ -1,0 +1,17 @@
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.vbproj.ResolveComReference.cache
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.Form1.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.ListaDrep.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.Resources.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.Ventana_emergente.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.vbproj.GenerateResource.Cache
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Release\NxPlayer.exe
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Release\NxPlayer.pdb
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Release\NxPlayer.xml
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Release\ID3TagLibrary.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Release\Interop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.exe
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.xml
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Release\NxPlayer.pdb

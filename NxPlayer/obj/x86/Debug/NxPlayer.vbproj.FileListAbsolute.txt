@@ -1,0 +1,84 @@
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\bin\Debug\NxPlayer.exe
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\bin\Debug\NxPlayer.pdb
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\bin\Debug\NxPlayer.xml
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.ResolveComReference.cache
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\NxPlayer.Form1.resources
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\NxPlayer.Resources.resources
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\NxPlayer.exe
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\NxPlayer.xml
+C:\Users\NO-USER\AppData\Local\Temporary Projects\NxPlayer\obj\x86\Debug\NxPlayer.pdb
+N:\NxPlayer\NxPlayer\obj\x86\Debug\Interop.WMPLib.dll
+N:\NxPlayer\NxPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.ResolveComReference.cache
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.exe
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.xml
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.pdb
+N:\NxPlayer\NxPlayer\bin\Debug\NxPlayer.exe
+N:\NxPlayer\NxPlayer\bin\Debug\NxPlayer.pdb
+N:\NxPlayer\NxPlayer\bin\Debug\NxPlayer.xml
+N:\NxPlayer\NxPlayer\bin\Debug\Interop.WMPLib.dll
+N:\NxPlayer\NxPlayer\bin\Debug\AxInterop.WMPLib.dll
+N:\NxPlayer\NxPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Form1.resources
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Resources.resources
+N:\NxPlayer\NxPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\NxPlayer\NxPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\NxPlayer\NxPlayer\bin\Debug\ID3TagLibrary.dll
+N:\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.ListaDrep.resources
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\Interop.WMPLib.dll
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.ResolveComReference.cache
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.exe
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.xml
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.pdb
+N:\Aplicaciones\NxPlayer\NxPlayer\bin\Debug\NxPlayer.exe
+N:\Aplicaciones\NxPlayer\NxPlayer\bin\Debug\NxPlayer.pdb
+N:\Aplicaciones\NxPlayer\NxPlayer\bin\Debug\NxPlayer.xml
+N:\Aplicaciones\NxPlayer\NxPlayer\bin\Debug\Interop.WMPLib.dll
+N:\Aplicaciones\NxPlayer\NxPlayer\bin\Debug\AxInterop.WMPLib.dll
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Form1.resources
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.ListaDrep.resources
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Resources.resources
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Ventana_emergente.resources
+N:\Aplicaciones\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.GenerateResource.Cache
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\Interop.WMPLib.dll
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.ResolveComReference.cache
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.exe
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.xml
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.pdb
+N:\Dev App\NxPlayer\NxPlayer\bin\Debug\NxPlayer.exe
+N:\Dev App\NxPlayer\NxPlayer\bin\Debug\NxPlayer.pdb
+N:\Dev App\NxPlayer\NxPlayer\bin\Debug\NxPlayer.xml
+N:\Dev App\NxPlayer\NxPlayer\bin\Debug\Interop.WMPLib.dll
+N:\Dev App\NxPlayer\NxPlayer\bin\Debug\AxInterop.WMPLib.dll
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbprojResolveAssemblyReference.cache
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Form1.resources
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.ListaDrep.resources
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Resources.resources
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Ventana_emergente.resources
+N:\Dev App\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.GenerateResource.Cache
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.ResolveComReference.cache
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.exe
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.xml
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.pdb
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Form1.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.ListaDrep.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Resources.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.Ventana_emergente.resources
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\obj\x86\Debug\NxPlayer.vbproj.GenerateResource.Cache
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Debug\NxPlayer.exe
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Debug\NxPlayer.pdb
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Debug\NxPlayer.xml
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Timeless\Desktop\net dev\NxPlayer\NxPlayer\bin\Debug\AxInterop.WMPLib.dll
