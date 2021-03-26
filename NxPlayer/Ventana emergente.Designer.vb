@@ -246,24 +246,24 @@ Partial Class Ventana_emergente
         '
         Me.ContextMenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem1, Me.NextToolStripMenuItem, Me.PreviousToolStripMenuItem})
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(153, 92)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(139, 70)
         '
         'ToolStripMenuItem1
         '
         Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
-        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(138, 22)
         Me.ToolStripMenuItem1.Text = "Show player"
         '
         'NextToolStripMenuItem
         '
         Me.NextToolStripMenuItem.Name = "NextToolStripMenuItem"
-        Me.NextToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.NextToolStripMenuItem.Size = New System.Drawing.Size(138, 22)
         Me.NextToolStripMenuItem.Text = "Next"
         '
         'PreviousToolStripMenuItem
         '
         Me.PreviousToolStripMenuItem.Name = "PreviousToolStripMenuItem"
-        Me.PreviousToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.PreviousToolStripMenuItem.Size = New System.Drawing.Size(138, 22)
         Me.PreviousToolStripMenuItem.Text = "Previous"
         '
         'Ventana_emergente
